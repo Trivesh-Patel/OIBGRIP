@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+  
+  }
+  .container{
+    background-color: burlywood;
+    padding: 5px 20px 15px 20px ;
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 4px;
+  
+  }
+  
+  body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+  }
+  input,span{
+    font-size: 20px;
+    color: rgb(0, 1, 1);
+  }
